@@ -30,12 +30,4 @@ Microsoft Excel, Power BI
 
 
 Example :
-Show The Screenshot : 
-
-
-
-
-
-
-
-
+Show The Screenshot : https://github.com/rajasreeroy99official-account/Blinkit-Powerbi-Dashboard/blob/main/blinkitdashboard.png
